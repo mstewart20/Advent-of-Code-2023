@@ -1,18 +1,3 @@
 {
-  "files": {
-    "Day 1/main.py": [
-      {
-        "id": "b27f5d05-0195-431b-aaa7-592430301420",
-        "line": 1,
-        "version": 58,
-        "index": 0
-      },
-      {
-        "id": "671a378c-c7a0-4f06-a591-d58fd66125ee",
-        "line": 2,
-        "version": 58,
-        "index": 8
-      }
-    ]
-  }
+  "files": {}
 }
